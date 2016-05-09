@@ -27,7 +27,9 @@ namespace WpfApplication1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
+            //
+            string message = "hello world";
+            label1.Content = message;
         }
     }
 }
