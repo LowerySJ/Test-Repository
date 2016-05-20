@@ -4,3 +4,5 @@ Master branch change here
 Changed B.txt in the AlterB branch
 
 Another Master branch change here
+
+Yet another AlterB change
