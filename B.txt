@@ -1,1 +1,3 @@
 Master branch change here
+
+Changed B.txt in the AlterB branch
